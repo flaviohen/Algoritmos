@@ -1,0 +1,9 @@
+Exercício 10
+Fazer um algoritmo que em que liste somente os números primos de 1 a 120
+
+Para lista os numero primos voce deve listar todos os números de 1 a 120 pegar o primeiro
+numero primo que é 2 e tirar todos os resultados da multiplicacao de 2 multiplicado por 1 ate 10
+então os que sobrarem serão os proximos numeros primos e então tirar tambem os resultados da multiplicacao
+do proximo numero primo de 1 ate 10 e fazer ate que o numero primo seje maior do que 120;
+
+  

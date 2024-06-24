@@ -1,0 +1,29 @@
+Exercício 6
+Fazer um algoritmo que calcule o fatorial – 
+Exemplo Fatorial de 5 = 5x4x3x2x1 = resultado fatorial
+
+Algoritmo Exercicio6
+
+Programa
+  
+  inteiro fatorialDe = 0, fatorial = 0;
+Inicio
+
+  Escreva("Digite o numero deseja saber o fatorial: ");
+  Leia(fatorialDe);
+  
+  Para cada variavel inteiro inicio igual fatorialDe; enquanto inicio maior igual a 1; subtraia inicio menos 1 e faça
+  InicioPara
+        
+        se(fatorial igual a 0)
+            fatorial = inicio * (inicio - 1)
+        senao
+            fatorial = fatorial * (inicio)
+        fimSe
+               
+  FimPara 
+   
+  Escreva("O fatorial é: " + fatorial);
+  
+  Escreva("Fim do Exercicio");
+Fim
