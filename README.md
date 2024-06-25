@@ -26,3 +26,46 @@ Site - Comunidade de desenvolvedores do .NET | Reunir-se com desenvolvedores com
 
 IDE Download - Baixar Ferramentas do Visual Studio – Instalação gratuita para Windows, Mac e Linux - https://visualstudio.microsoft.com/pt-br/downloads/
 
+Videos Embarcadero DEV C++
+
+Instalacao - https://youtu.be/jXP3PAE35oQ
+
+Exercicio1 - https://youtu.be/hoW8wr8aR0A 
+
+Exercicio2 - https://youtu.be/G7sDqbONYmM
+
+Exercicio3 - https://youtu.be/MWuvRav6aP0
+
+Exercicio4 - https://youtu.be/zS3YEDsCvsY
+
+Exercicio5 - https://youtu.be/xYKoPTmv1Yk
+
+Videos Eclipse - Java
+
+Instalacao - https://youtu.be/X5QbnoKyhtw
+
+Exercicio1 - https://youtu.be/UQiX7bPJBQU
+
+Exercicio2 - https://youtu.be/Y8JQIWJ49c0
+
+Exercicio3 - https://youtu.be/LFg55iXs3-w
+
+Exercicio4 - https://youtu.be/7K-E5jZRlb0
+
+Exercicio5 - https://youtu.be/uP1vHVLJnYg
+
+Videos Visual Studio Community - C#
+
+Instalacao - https://youtu.be/icm4SDDrni8
+
+Exercicio1 - https://youtu.be/WGchvaRRkQI
+
+Exercicio2 - https://youtu.be/hhg-yfjnfO4
+
+Exercicio3 - https://youtu.be/im2z5x8-y0s
+
+Exercicio4 - https://youtu.be/qNDDYV9dWuk
+
+Exercicio5 - https://youtu.be/39j-Ga6jUow
+
+
