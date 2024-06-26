@@ -6,7 +6,7 @@ Algoritmo Exercicio6
 
 Programa
   
-  inteiro fatorialDe = 0, fatorial = 0;
+  inteiro fatorialDe = 0, fatorial = 1;
 Inicio
 
   Escreva("Digite o numero deseja saber o fatorial: ");
@@ -14,13 +14,7 @@ Inicio
   
   Para cada variavel inteiro inicio igual fatorialDe; enquanto inicio maior igual a 1; subtraia inicio menos 1 e faça
   InicioPara
-        
-        se(fatorial igual a 0)
-            fatorial = inicio * (inicio - 1)
-        senao
-            fatorial = fatorial * (inicio)
-        fimSe
-               
+     fatorial = fatorial vezes inicio           
   FimPara 
    
   Escreva("O fatorial é: " + fatorial);
