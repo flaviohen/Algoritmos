@@ -1,23 +1,26 @@
 Exercício 8
 Fazer um vetor com uma quantidade de número 10 números 
-aleatórios inteiro em um vetor e ordená-los
-Uma forma de ordenação é pegar cada valor no vetor e comparar com cada um dos valores no vetor e verificar com cada valor se é maior ou menor com cada valor da posição e fazer a troca das posições.
+aleatórios inteiro em um vetor e ordená-los em ordem
+Uma forma de ordenação é pegar cada valor no vetor e comparar com cada um dos valores no vetor e verificar com cada valor se é maior  com cada valor da posição e fazer a troca das posições caso seja maior.
 
 Algoritmo - Exercicio 8
 Programa
 
-  vetorInteiros = inteiro[];
+  inteiro vetorInteiro [];
   inteiro tamanhoDoVetor = 0;
   inteiro contador = 0;
 
 Inicio
 
-   Para inteiro posicaoNoVetor inicia com 0; enquanto posicaoNoVetor < 10; posicaoNoVetor soma mais 1 e faça  
+   Escreva("Digite a quantidade elemento para o vetor: ");
+   Leia(TamanhoDoVetor);
+   vetorInteiro = inteiro[tamanhoDoVetor];
+
+   Para inteiro posicaoNoVetor inicia com 0; enquanto posicaoNoVetor < tamanhoDoVetor; posicaoNoVetor soma mais 1 e faça  
         Escreva("Coloque o numero aleatorio no vetor");
-        Leia(vetorInteiros[posicaoNoVetor]);
+        Leia(vetorInteiro[posicaoNoVetor]);
    FimPara
    
-   tamanhoDoVetor = vetorInteiro.tamanho;
    
    Para inteiro posicaoVetor inicia com 0; enquanto posicaoVetor < tamanhoDoVetor; posicaoVetor soma mais 1 e faça
         Escreva(vetorInteiro[posicaoVetor]);
@@ -25,7 +28,7 @@ Inicio
    
    contador = 0;
    
-   //Ordenação
+   //Ordenação em forma crescente
    Para inteiro posicaoVetor inicia com 0; enquanto posicaoVetor < tamanhoDoVetor; posicaoVetor soma mais 1 e faça
       
       enquanto(vetorInteiro[contador] > vetorInteiro[contador + 1]){
