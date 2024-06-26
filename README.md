@@ -23,6 +23,17 @@ Ferramentas
 
 • [Exercicio5](https://youtu.be/xYKoPTmv1Yk)
 
+• [Exercicio6](https://youtu.be/lbZrUbMaMsM)
+
+• Exercicio7
+
+• Exercicio8
+
+• Exercicio9
+
+• Exercicio10
+
+• Exercicio11
 <hr/>
 
 <b>Eclipse Org - Linguagem Java</b>
@@ -48,6 +59,18 @@ Ferramentas
 
 • [Exercicio5](https://youtu.be/uP1vHVLJnYg)
 
+• [Exercicio6](https://youtu.be/R9ZZvXTZ1Mc)
+
+• Exercicio7
+
+• Exercicio8
+
+• Exercicio9
+
+• Exercicio10
+
+• Exercicio11
+
 <hr/>
            
 <b>Microsoft – Linguagem C#</b>
@@ -70,6 +93,18 @@ Ferramentas
 • [Exercicio4](https://youtu.be/qNDDYV9dWuk)
 
 • [Exercicio5](https://youtu.be/39j-Ga6jUow)
+
+• [Exercicio6](https://youtu.be/aclshOcFYbI)
+
+• Exercicio7
+
+• Exercicio8
+
+• Exercicio9
+
+• Exercicio10
+
+• Exercicio11
 
 
 
