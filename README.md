@@ -25,7 +25,7 @@ Ferramentas
 
 • [Exercicio6](https://youtu.be/lbZrUbMaMsM)
 
-• Exercicio7
+• [Exercicio7](https://youtu.be/eWXmmOiDwHc)
 
 • Exercicio8
 
@@ -61,7 +61,7 @@ Ferramentas
 
 • [Exercicio6](https://youtu.be/R9ZZvXTZ1Mc)
 
-• Exercicio7
+• [Exercicio7](https://youtu.be/Kmls-ayCTWI)
 
 • Exercicio8
 
@@ -96,7 +96,7 @@ Ferramentas
 
 • [Exercicio6](https://youtu.be/aclshOcFYbI)
 
-• Exercicio7
+• [Exercicio7](https://youtu.be/PTYyuPkzMWM)
 
 • Exercicio8
 
