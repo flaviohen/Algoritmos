@@ -27,7 +27,7 @@ Ferramentas
 
 • [Exercicio7](https://youtu.be/eWXmmOiDwHc)
 
-• Exercicio8
+• [Exercicio8](https://vimeo.com/971544211)
 
 • Exercicio9
 
