@@ -63,7 +63,7 @@ Ferramentas
 
 • [Exercicio7](https://youtu.be/Kmls-ayCTWI)
 
-• Exercicio8
+• [Exercicio8](https://vimeo.com/971697724)
 
 • Exercicio9
 
