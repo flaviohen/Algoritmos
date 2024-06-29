@@ -33,7 +33,9 @@ Inicio
       enquanto(posicoesASeremPercorridas menor tamanhoVetor)
       Inicio
 	posicaoTrocando recebe posicoesASeremPercorridas;
-	proximaPosicaoVerificar recebe posicoesASeremPercorridas mais 1;
+        se(posicoesASeremPercorridas diferente (tamanhoVetor menos 1))
+            proximaPosicaoVerificar recebe posicoesASeremPercorridas mais 1;
+	fim_se
 
 	se(vetorInteiro[posicaoTrocando] maior vetorInteiro[proximaPosicaoVerificar])
 		armazenaValorTemporario recebe vetorInteiro[posicaoTrocando];
