@@ -8,7 +8,7 @@ Programa
 
   inteiro vetorInteiro [];
   inteiro tamanhoDoVetor = 0;
-  inteiro contador = 0;
+  inteiro armazenaValorTemporario = 0, posicaoTrocando, proximaPosicaoVerificar;
 
 Inicio
 
@@ -26,17 +26,27 @@ Inicio
         Escreva(vetorInteiro[posicaoVetor]);
    FimPara
    
-   contador = 0;
    
    //Ordenação em forma crescente
-   Para inteiro posicaoVetor inicia com 0; enquanto posicaoVetor < tamanhoDoVetor; posicaoVetor soma mais 1 e faça
-      
-      enquanto(vetorInteiro[contador] > vetorInteiro[contador + 1]){
-          valor = vetorInteiro[contador];
-          vetorInteiro[contador] = vetorInteiro[contador + 1];
-          vetorInteiro[contador + 1] = valor;
-          contador++;
-      Fim_enquanto     
+   Para inteiro posicaoVetor inicia 0; enquanto posicaoVetor < tamanhoDoVetor; posicaoVetor soma mais 1 e faça
+
+      enquanto(posicoesASeremPercorridas menor tamanhoVetor)
+      Inicio
+	posicaoTrocando recebe posicoesASeremPercorridas;
+	proximaPosicaoVerificar recebe posicoesASeremPercorridas mais 1;
+
+	se(vetorInteiro[posicaoTrocando] maior vetorInteiro[proximaPosicaoVerificar])
+		armazenaValorTemporario recebe vetorInteiro[posicaoTrocando];
+		vetorInteiro[posicaoTrocando] recebe vetorInteiro[proximaPosicaoVerificar];
+		vetorInteiro[proximaPosicaoVerificar] recebe armazenaValorTemporario;
+		
+		se(posicoesASeremPercorridas igual (tamanhoVetor menos 1))
+			posicoesASeremPercorridas recebe tamanhoVetor mais 1;
+		fim_se
+	fim_se
+	posicoesASeremPercorridas soma mais 1;
+      Fim_enquanto
+      posicoesAsSeremPercorridas recebe 0;
    FimPara
      
      Para inteiro posicaoVetor inicia com 0; enquanto posicaoVetor < tamanhoDoVetor; posicaoVetor soma mais 1 e faça
