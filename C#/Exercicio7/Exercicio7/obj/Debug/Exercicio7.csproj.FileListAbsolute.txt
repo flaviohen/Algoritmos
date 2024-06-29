@@ -1,0 +1,7 @@
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\obj\Debug\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal - Algoritmos\C#\Exercicios\Exercicio7\Exercicio7\Exercicio7\obj\Debug\Exercicio7.pdb
