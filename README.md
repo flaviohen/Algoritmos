@@ -98,7 +98,7 @@ Ferramentas
 
 • [Exercicio7](https://youtu.be/PTYyuPkzMWM)
 
-• Exercicio8
+• [Exercicio8](https://vimeo.com/972136062)
 
 • Exercicio9
 
