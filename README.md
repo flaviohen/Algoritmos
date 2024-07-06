@@ -29,7 +29,7 @@ Ferramentas
 
 • [Exercicio8](https://vimeo.com/971544211)
 
-• Exercicio9
+• [Exercicio9](https://vimeo.com/978603139)
 
 • Exercicio10
 
@@ -65,7 +65,7 @@ Ferramentas
 
 • [Exercicio8](https://vimeo.com/971697724)
 
-• Exercicio9
+• [Exercicio9](https://vimeo.com/978604031)
 
 • Exercicio10
 
@@ -100,7 +100,7 @@ Ferramentas
 
 • [Exercicio8](https://vimeo.com/972136062)
 
-• Exercicio9
+• [Exercicio9](https://vimeo.com/978605627)
 
 • Exercicio10
 
