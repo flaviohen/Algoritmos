@@ -5,11 +5,6 @@ Verifique se o número é par ou ímpar.
   Se for par, exceto o número 2 (que é o único número primo par), ele não é primo.
 Verifique se o número termina com 5 ou zero. 
   Se sim, exceto o número 5 (que é o único número primo que termina com 5), ele não é primo.
-Divida o número pelos primeiros números primos, como 2, 3, 5, 7, 11, 13, etc. Se o número for 
-divisível por algum deles, ele não é primo. Se não for divisível por nenhum deles, ele é primo.
-Dica: Pare de dividir quando o quadrado do número primo for maior que o 
-número que você está testando. Por exemplo, se você estiver testando o número 103, 
-pare na divisão por 11, porque (11^2 = 121), que é maior que 103 
  
 
 Algoritmo Exercicio11
@@ -23,28 +18,17 @@ Inicio
     Escreva("Digite o numero que deseja saber se e primo: ");
     Leia(numeroPrimo);
     
-    se(Negacao(numeroPrimo > 0 e numeroPrimo diferente de 0 e numeroPrimo diferente de 1)){
-          ehNumeroPrimo igual a 1;
-    }
-    se(ehNumeroPrimo igual a 0){
-        se(numero modulo de 2 igual a 0 ou numero igual a 2){
-            ehNumeroPrimo igual a 1;
-        }
-    }
-    se(ehNumeroPrimo igual a 0){
-      se(Negacao(numero modulo de 10 == 5 ou numero modulo de 10 == 0) e numero diferente de 5){
-          ehNumero igual a 1;
-      }
-    }
-    se(ehNumeroPrimo igual a 0){
-      se(Negacao(numero modulo de 2 igual a 0 ou 
-                 numero modulo de 3 igual a 0 ou 
-                 numero modulo 7 igual a 0 ou 
-                 numero modulo de 11 igual a 0 ou 
-                 numero modulo de 13 igual 0)){
-         ehNumeroPrimo igual a 1;
-      }
-    }
+    se numeroPrimo modulo 2 diferente de 0 ou numeroPrimo igual a 2
+      ehNumeroPrimo = 1;
+    fimSe
+
+    se ehNumeroPrimo igual a 0
+      se numeroPrimo == 5
+         ehNumeroPrimo = 1;
+      senao se numeroPrimo modulo de 10 igual 5 ou numeroPrimo modulo de 10 == 0 
+      	 ehNumeroPrimo = 0;
+      fimSe
+    fimSe	
     
     se(ehNumeroPrimo == 0){
       Escreva("Este numero nao e primo");
