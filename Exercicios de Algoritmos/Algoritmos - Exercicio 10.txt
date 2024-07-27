@@ -1,9 +1,62 @@
 Exercício 10
 Fazer um algoritmo que em que liste somente os números primos de 1 a 120
 
-Para lista os numero primos voce deve listar todos os números de 1 a 120 pegar o primeiro
-numero primo que é 2 e tirar todos os resultados da multiplicacao de 2 multiplicado por 1 ate 10
-então os que sobrarem serão os proximos numeros primos e então tirar tambem os resultados da multiplicacao
-do proximo numero primo de 1 ate 10 e fazer ate que o numero primo seje maior do que 120;
-
   
+Programa Exercicio10
+
+int quantidadeNumeroPrimo;
+int vetorInteiro = int[];
+int vetorNumerosPrimos = int[];
+logico ehNumeroPrimo = 0;
+
+
+Inicio
+
+  Escreva("Digite ate que numero voce deseja saber os numeros primos: ");
+  Leia(quantidadeNumeroPrimo);
+ 
+  
+  Para inteiro numero inicia 1; enquanto numero <= quantidadeNumeroPrimo; numero soma mais 1 e faça
+      vetorInteiro[numero - 1] = numero;
+  FimPara 
+
+
+  Para inteiro numero inicia 0; enquanto numero <= vetorInteiro.tamanho; numero soma mais 1 e faça
+  
+     se vetorInteiro[numero] > 0 && vetorInteiro[numero] != 0 && vetorInteiro[numero] != 1 
+    
+  	se vetorInteiro[numero] % 2 == 0 || vetorInteiro[numero] == 2
+	    
+	  ehNumeroPrimo = 1;
+	
+	fimSe 
+	
+	se ehNumeroPrimo == 0
+        
+		se vetorInteiro[numero] == 5
+			
+			ehNumeroPrimo = 1;
+
+		senao se vetorInteiro[numero] % 10 == 5 || vetorInteiro[numero] % 10 == 0
+		
+			ehNumeroPrimo = 0;
+		fimSe
+
+	fimSe
+
+    fimSe
+
+    se ehNumeroPrimo == 1
+    	vetorNumeroPrimo[vetorNumerosPrimo.tamanho + 1] = vetorInteiro[numero];	
+    fimSe
+  FimPara
+
+  Para inteiro numero inicia 0; enquanto numero <= vetorNumerosPrimo.tamanho; numero soma mais 1 e faça
+  	
+	Escreva(vetorNumerosPrimos[numero]);
+	
+  FimPara
+
+
+  Escreva("Fim do Exercício");
+Fim
