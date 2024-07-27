@@ -102,7 +102,7 @@ Ferramentas
 
 • [Exercicio9](https://vimeo.com/978605627)
 
-• Exercicio10
+• [Exercicio10](https://vimeo.com/991077959)
 
 • [Exercicio11](https://vimeo.com/990763476)
 
