@@ -25,7 +25,7 @@ Inicio
   
      se vetorInteiro[numero] > 0 && vetorInteiro[numero] != 0 && vetorInteiro[numero] != 1 
     
-  	se vetorInteiro[numero] % 2 == 0 || vetorInteiro[numero] == 2
+  	se vetorInteiro[numero] % 2 != 0 || vetorInteiro[numero] == 2
 	    
 	  ehNumeroPrimo = 1;
 	
