@@ -67,7 +67,7 @@ Ferramentas
 
 • [Exercicio9](https://vimeo.com/978604031)
 
-• Exercicio10
+• [Exercicio10](https://vimeo.com/991061882)
 
 • [Exercicio11](https://vimeo.com/990743285)
 
