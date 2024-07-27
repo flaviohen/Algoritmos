@@ -31,7 +31,7 @@ Ferramentas
 
 • [Exercicio9](https://vimeo.com/978603139)
 
-• Exercicio10
+• [Exercicio10](https://vimeo.com/990946951)
 
 • [Exercicio11](https://vimeo.com/990676747)
 <hr/>
